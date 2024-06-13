@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankProject", "TankProject\TankProject.csproj", "{DFA7B053-EB13-4B56-B218-ABB95E9E1F46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{A3CB2224-5980-4838-B189-31341D895176}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFA7B053-EB13-4B56-B218-ABB95E9E1F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA7B053-EB13-4B56-B218-ABB95E9E1F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA7B053-EB13-4B56-B218-ABB95E9E1F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA7B053-EB13-4B56-B218-ABB95E9E1F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3CB2224-5980-4838-B189-31341D895176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3CB2224-5980-4838-B189-31341D895176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3CB2224-5980-4838-B189-31341D895176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3CB2224-5980-4838-B189-31341D895176}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6BA56C-DF70-4589-AC08-61A02695BC08}
+	EndGlobalSection
+EndGlobal
